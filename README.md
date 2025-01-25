@@ -6,6 +6,7 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Summary](#summary)
+- [Links](#links)
 - [Questions](#questions)
 - [Screenshots](#screenshots)
 
@@ -35,6 +36,9 @@ The users will be able to generate their own file after answering the prompts th
 ## Summary
 The users will be able to generate their own README.md files through the application.
 
+## Links
+[Homepage](https://github.com/san1718/mc09-Professional_README_Generator)
+[Demo](https://github.com/san1718/mc09-Professional_README_Generator/blob/main/assets/images/DemoREADME.gif)
 ## Questions
 If you have any questions, you can reach me at:
 - GitHub: [san1718](https://github.com/san1718)
