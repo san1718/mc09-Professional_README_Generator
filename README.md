@@ -42,4 +42,4 @@ If you have any questions, you can reach me at:
 ## Screenshots
 <img width="1000" alt="Prompt" src="https://github.com/san1718/mc09-Professional_README_Generator/blob/main/assets/images/Prompt.png">
 <img width="1000" alt="Result" src="https://github.com/san1718/mc09-Professional_README_Generator/blob/main/assets/images/Result.png">
-<img width="1000" alt="Demo" src="">
+<img width="1000" alt="Demo" src="https://github.com/san1718/mc09-Professional_README_Generator/blob/main/assets/images/DemoREADME.gif">
