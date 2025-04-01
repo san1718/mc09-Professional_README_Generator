@@ -25,6 +25,7 @@ Creating a high-quality **README.md** file for every new repository can be time-
 - **File System (fs)** (To generate and save files)  
 
 ## Installation & Usage  
+For local: 
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone git@github.com:san1718/mc09-Professional_README_Generator.git
